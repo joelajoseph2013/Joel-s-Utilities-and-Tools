@@ -32,7 +32,7 @@ How to Run:
 
 1. Clone the repository:
 
-git clone https://github.com/outlicious/joel-s-Utilities-and-Tools.git
+git clone https://github.com/joelajoseph2013(or outlicious)/joel-s-Utilities-and-Tools.git
 cd joelscript
 
 
